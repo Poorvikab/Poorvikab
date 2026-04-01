@@ -7,8 +7,6 @@
 > Diving into multimodal apps, computer vision and autonomous systems —  
 > turning curiosity into real, working tech.
 
-![](https://komarev.com/ghpvc/?username=Poorvikab&color=7c3aed&style=flat-square&label=VISITORS)
-
 <br clear="right"/>
 
 ---
