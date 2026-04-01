@@ -1,18 +1,18 @@
 # Hey, I'm Poorvika 👾
 
-<img align="right" alt="pixel cat" width="320" src="https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat.gif" />
+<img align="right" alt="pixel cat" width="300" src="https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&width=435&lines=AI+Engineer+%7C+Builder+%7C+Vision+Explorer;Building+systems+that+see+%26+think+%F0%9F%A4%96;Python+first%2C+everything+else+second;AI+is+learning+and+so+am+I+%3A)](https://git.io/typing-svg)
 
-> Diving into multimodal apps, computer vision and autonomous systems —  
-> turning curiosity into real, working tech.  
+> Diving into multimodal apps, computer vision and autonomous systems —
+> turning curiosity into real, working tech.
 > From pixels to predictions, one model at a time. 🤖
 
 <br clear="right"/>
 
 ---
 
-## `poorvika@github:~$` cat about_me.txt
+## 📂 about_me.txt
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  FILE: about_me.txt                              LINES: 8       │
@@ -33,7 +33,7 @@
 
 ---
 
-## `poorvika@github:~$` ls tech_stack/
+## 🛠 tech_stack
 
 **Languages**
 
@@ -93,35 +93,35 @@
 
 ---
 
-## `poorvika@github:~$` cat github_stats.log
+## 📊 github_stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Poorvikab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d001a&title_color=A855F7&text_color=C084FC&icon_color=A855F7)
+<img src="https://github-readme-stats.vercel.app/api?username=Poorvikab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d001a&title_color=A855F7&text_color=C084FC&icon_color=A855F7" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=Poorvikab&theme=tokyonight&hide_border=true&background=0d001a&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7)
+<img src="https://streak-stats.demolab.com?user=Poorvikab&theme=tokyonight&hide_border=true&background=0d001a&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikab&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d001a&title_color=A855F7&text_color=C084FC)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorvikab&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d001a&title_color=A855F7&text_color=C084FC" />
 
 </div>
 
 ---
 
-## `poorvika@github:~$` cat trophies.log
+## 🏆 trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Poorvikab&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Poorvikab&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" />
 
 </div>
 
 ---
 
-## `poorvika@github:~$` cat activity_graph.log
+## 📈 activity
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Poorvikab&bg_color=0d001a&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poorvikab&bg_color=0d001a&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true" />
 
 </div>
 
@@ -137,7 +137,3 @@
 ```
 
 </div>
-```
-
----
-
