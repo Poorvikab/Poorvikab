@@ -1,7 +1,6 @@
-<img align="right" alt="pixel cat" width="320" src="https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat.gif" />
-
-
 # Hey, I'm Poorvika 👾
+
+<img align="right" alt="pixel cat" width="320" src="https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&width=435&lines=AI+Engineer+%7C+Builder+%7C+Vision+Explorer;Building+systems+that+see+%26+think+%F0%9F%A4%96;Python+first%2C+everything+else+second;AI+is+learning+and+so+am+I+%3A)](https://git.io/typing-svg)
 
