@@ -142,6 +142,3 @@
 
 ---
 
-**Heads up on one thing** — your GIF file is named `cat_gif` with no extension. If it doesn't load, rename the file to `cat_gif.gif` in your repo and update the URL to:
-```
-https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat_gif.gif
