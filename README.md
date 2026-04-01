@@ -1,7 +1,5 @@
 <img align="right" alt="pixel cat" width="320" src="https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat.gif" />
 
-<br><br><br><br><br><br>
-
 
 # Hey, I'm Poorvika 👾
 
