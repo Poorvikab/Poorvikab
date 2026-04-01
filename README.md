@@ -1,4 +1,4 @@
-<img align="right" alt="pixel cat" width="220" src="https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat_gif" />
+<img align="right" alt="pixel cat" width="220" src="https://raw.githubusercontent.com/Poorvikab/Poorvikab/main/cat.gif" />
 
 # Hey, I'm Poorvika 👾
 
